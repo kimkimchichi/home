@@ -1,0 +1,6 @@
+module Pods_appHome {
+  umbrella header "Pods-appHome-umbrella.h"
+
+  export *
+  module * { export * }
+}

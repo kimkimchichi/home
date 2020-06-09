@@ -1,0 +1,6 @@
+module Pods_appHome_appHomeTests {
+  umbrella header "Pods-appHome-appHomeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
